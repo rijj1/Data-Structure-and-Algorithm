@@ -1,4 +1,4 @@
-# Data-Sructure-and-Algorithm
+# Data-Structure-and-Algorithm
 <h1>Learn Data Structure and Algorithm from Basic to Advance</h1>
 
 <h3>After these exercises you would learn the following: <br>
@@ -12,5 +12,5 @@ Level 3: Implement it to Solve Real Life Problem<br></h3>
 <h3>3. Arrays Representations</h3>
 <h3>4. Arrays ADT</h3>
 <h3>5. Strings</h3>
-<hr colour="red">
+
 <h1> More Topics will be added Soon......</h1>
