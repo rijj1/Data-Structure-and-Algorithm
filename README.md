@@ -12,5 +12,6 @@ Level 3: Implement it to Solve Real Life Problem<br></h3>
 <h3>3. Arrays Representations</h3>
 <h3>4. Arrays ADT</h3>
 <h3>5. Strings</h3>
+<h3>6. Matrices</h3>
 
 <h1> More Topics will be added Soon......</h1>
